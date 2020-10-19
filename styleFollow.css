@@ -1,0 +1,9 @@
+body{
+    background-color: #ff8080;
+}
+img{
+    position: absolute;
+  right: 60px;
+  padding-left: 700px;
+  padding-right: 700px;
+}
